@@ -1,0 +1,3 @@
+Q1: Why might be consider using git?
+
+Answer: Git allows users to work offline, revert to previous versions and is optimized in speed. Using it on platforms like GitHub can enhance its utility and also enables branching and merging and supports effective collaboration.
